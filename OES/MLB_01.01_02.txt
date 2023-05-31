@@ -1,0 +1,85 @@
+Project Group ID :  MLB_01.01_02
+
+Batch No: 1st Year 2nd Semester
+
+Topic: Online Examination System for Employees
+
+Group Member Details,
+
+------------------Member 01-------------------------
+
+Member ID	     : 	IT21086434	 
+Member Name	     : 	De Silva R.S
+Contact Number	     :  0758436072 
+Email Address	     : it21086434@my.sliit.lk 
+Implemented Functions: 	(User Management)
+				Home page
+				Register 
+				Employee Login
+				Staff Login	
+				Reset Password
+				View Profile
+				Update Profile
+				Delete Profile
+ 
+------------------Member 02-------------------------
+
+Member ID	     		: 	IT21096570	 
+Member Name	     		: 	Wickramasinghe T.D.B
+Contact Number	     	:  	0750561541 
+Email Address	     	: 	it21096570@my.sliit.lk 
+
+Implemented Functions: 		(Exam Admin & Examiner)
+					Create Exam
+					View Anwerscripts
+					Download Answerscript
+					Submit Result
+					Display Created Exams
+					Display Submitted Results
+					Update Exams
+					Update Results
+					Delete Exams
+					Delete Results
+
+
+------------------Member 03-------------------------
+Member ID	     		: 	IT21191442	 
+Member Name	     		: 	Rathnayaka G.T.S.T
+Contact Number	     	:  	0783096330
+Email Address	     	: 	it21191442@my.sliit.lk 
+
+Implemented Functions: 		(Customer Care Officer)
+					Inquiry Page
+					Feedback page
+					View Inquiry
+					Update Inquiry
+					Delete Inquiry
+					Take Feedback
+
+
+
+------------------Member 04-------------------------
+Member ID	     		: 	IT21191688	 
+Member Name	     		: 	Ruwanpura M.W.H.S.L
+Contact Number	     	:  	0713477746
+Email Address	     	: 	it21191688@my.sliit.lk 
+
+Implemented Functions: 		(Exam Admin)
+					Module page
+					Download Paper
+					Upload Answer Script
+					Edit Answer Script
+					Dispaly Results User View
+					Search Results
+
+
+------------------Member 05-------------------------
+
+
+
+
+
+
+
+
+ 
