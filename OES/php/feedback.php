@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="../css/header.css">
     <link rel="stylesheet" type="text/css" href="../css/footer.css">
     <link rel="stylesheet" type="text/css" href="../css/feedback.css">
-    <title>Feedback page</title>
+    <title>Feedback </title>
 </head>
 
 <body>
